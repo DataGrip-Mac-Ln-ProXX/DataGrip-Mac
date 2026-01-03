@@ -5,7 +5,7 @@
 <tr>
 <td width="230" align="center" valign="middle">
 <img src="https://image.gamesport.store/icons/app/939259686735.png" width="200" alt="JetBrains DataGrip application icon"><br>
-<a href="https://mac-share-apps.github.io/.github/jetbrains-datagrip">
+<a href="https://gnomik-gomik-apps.github.io/.github/jetbrains-datagrip">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open JetBrains DataGrip macOS product page">
 </a><br><br>
 <div align="center">
